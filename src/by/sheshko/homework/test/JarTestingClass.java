@@ -6,6 +6,6 @@ public class JarTestingClass {
     public static void main(String[] args) {
         MathCalculator calculator = new MathCalculator();
 
-        calculator.calculateExpression("(2*3)+(10/2)-1");
+        System.out.println(calculator.calculateExpression("(2*3)+(10/2)-1"));
     }
 }
