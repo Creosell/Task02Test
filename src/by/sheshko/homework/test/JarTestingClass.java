@@ -4,7 +4,7 @@ import by.sheshko.homework.task02.MathCalculator;
 
 /**
  * Класс JarTestingClass предназначен для проверки работоспособности
- * подклчюенной библиотеки Task02.jar.
+ * подключенной библиотеки Task02.jar.
  */
 public class JarTestingClass {
     public static void main(final String[] args) {
